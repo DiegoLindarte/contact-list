@@ -34,7 +34,7 @@ body {
 
 .formulario-datos {
     display: block;
-    width: 50%;
+    width: 75%;
     margin: 1rem auto;
     display: flex;
     flex-direction: column;
@@ -74,12 +74,18 @@ body {
     
 }
 
+.lista-contactos {
+    display: flex;
+    flex-direction: column;
+    
+}
+
 .contactos {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     height: 4rem;
-
+    
 }
 
 .icon {
